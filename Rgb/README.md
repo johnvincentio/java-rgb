@@ -62,5 +62,5 @@ Add `/Users/jv/Desktop/MyDevelopment/github/java/Utilities/java-rgb/Rgb/rgb.comm
 ## Create Symbolic Link
 
 ```
-ln -s /Users/jv/Desktop/MyDevelopment/github/java/Utilities/java-rgb/Rgb/rgb.command /Users/jv/Desktop/MyDevelopment/github/repo_shell_scripts/mac/unix-scripts/bin/rgb
+ln -s /Users/jv/Desktop/MyDevelopment/github/java/Utilities/java-rgb/Rgb/rgb.command /Users/jv/Desktop/MyDevelopment/github/repo_shell_scripts/mac/unix-scripts/bin/java-rgb
 ```
