@@ -1,5 +1,5 @@
 
-# Grep
+# RGB
 
 At Github, create repository `java-rgb`
 
@@ -59,13 +59,8 @@ Copy code to this package and change package names.
 
 Add `/Users/jv/Desktop/MyDevelopment/github/java/Utilities/java-rgb/Rgb/rgb.command`
 
-## Create Alias
+## Create Symbolic Link
 
-In Finder
-
-* select `rgb.command`
-* right click, Make Alias
-* rename to `rgb.command`
-* move alias to `/Users/jv/Desktop/MyDevelopment/github/repo_shell_scripts/mac/JVTools/`
-
-# END
+```
+ln -s /Users/jv/Desktop/MyDevelopment/github/java/Utilities/java-rgb/Rgb/rgb.command /Users/jv/Desktop/MyDevelopment/github/repo_shell_scripts/mac/unix-scripts/bin/rgb
+```
