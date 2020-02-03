@@ -43,7 +43,7 @@ public class App extends JFrame {
 		setVisible(true);
 	}
 	public static void main (String args[]) {
-		JFrame frame = new App ("RGB");
+		JFrame frame = new App ("RGB Color Helper");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 	private Container makeMyContentPane() {
